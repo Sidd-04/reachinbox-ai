@@ -2,7 +2,6 @@
 
 A full-stack, production-grade email job scheduling system and dashboard built for high-throughput, delayed email delivery, rate limiting, Slack notifications, and search indexing.
 
-![ReachInbox Dashboard](frontend/src/assets/dashboard_preview.png)
 
 ---
 
